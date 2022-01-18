@@ -1,6 +1,8 @@
 const b = [1, 2, 3, 4, 5 ,4];
 
 
+
+
 //for loop
 
 // let j=0;
